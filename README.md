@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Firas</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently building  **ReactNativeApps**
 
 - 👨‍💻 All of my projects are available at [https://firasrebai.netlify.app/](https://firasrebai.netlify.app/)
 
-- 💬 Ask me about **HTML5 , CSS3 , JS , PYTHON**
+- 💬 Ask me about **HTML5 , CSS3 , JS , PYTHON, React**
 
 - 📫 How to reach me **rebaifiras864@gmail.com**
 
