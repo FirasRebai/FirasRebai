@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firas</h1>
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
-- 🌱 I’m currently building  **ReactNativeApps**
+- 🌱 I’m currently building  **ReactNative Apps**
 
 - 👨‍💻 All of my projects are available at [https://firasrebai.netlify.app/](https://firasrebai.netlify.app/)
 
